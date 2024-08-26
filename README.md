@@ -1,6 +1,6 @@
 # ¡Hola, soy Rodrigo Marcos del Bosque Calvo! 👋
 
-![GitHub Profile Header](https://user-images.githubusercontent.com/yourusername/yourheaderimage.jpg](https://github.com/RMdelbosque/RMdelbosque/blob/main/Foto%20Github.jpg](https://github.com/RMdelbosque/RMdelbosque/blob/main/Foto%20Github.jpg)
+![GitHub Profile Header](https://github.com/RMdelbosque/RMdelbosque/raw/main/Foto%20Github.jpg)
 
 ## Sobre mí
 
