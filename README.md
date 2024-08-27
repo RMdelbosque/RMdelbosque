@@ -78,4 +78,4 @@ Programador **Full Stack** con experiencia en **Realidad Virtual** y **Aumentada
 
 ---
 
-¡Gracias por visitar mi perfil! No dudes en contactarme para discutir proyectos o simplemente para decir ¡hola! 😄
+
