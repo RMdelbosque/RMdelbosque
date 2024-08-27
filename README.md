@@ -5,7 +5,7 @@
 ## Sobre mí
 
 ### 🎯 Resumen Profesional
-Programador **Full Stack** con experiencia en **Realidad Virtual** y **Aumentada**, y con un fuerte trasfondo en el sector audiovisual. Mi curiosidad innata me impulsa a aprender y mejorar constantemente, mientras que mi experiencia como asesor ha potenciado mis habilidades de comunicación y gestión de clientes. Soy detallista y resolutivo, con capacidad para trabajar en equipo y manejar proyectos complejos. Estoy en búsqueda de nuevas oportunidades para seguir creciendo profesionalmente en el desarrollo Full Stack, asumiendo nuevos retos.
+Programador **Full Stack** con experiencia en **Realidad Virtual** y **Aumentada**, así como en el sector audiovisual. Mi curiosidad innata me impulsa a aprender y mejorar constantemente, mientras que mi experiencia como asesor ha potenciado mis habilidades de comunicación y gestión de clientes. Soy detallista y resolutivo, con capacidad para trabajar en equipo y manejar proyectos complejos. Busco seguir creciendo profesionalmente en el desarrollo Full Stack, asumiendo nuevos retos.
 
 ---
 
