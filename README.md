@@ -1,68 +1,76 @@
-# ¡Hola, soy Rodrigo Marcos del Bosque Calvo! 👋
+# ¡Hola, soy Rodrigo del Bosque Calvo! 👋
 
 ![GitHub Profile Header](https://github.com/RMdelbosque/RMdelbosque/raw/main/Foto%20Github.jpg)
 
 ## Sobre mí
 
 ### 🎯 Resumen Profesional
-Programador **Full Stack** con experiencia en **Realidad Virtual** y **Aumentada**, así como en el sector audiovisual. Mi curiosidad innata me impulsa a aprender y mejorar constantemente, mientras que mi experiencia como asesor ha potenciado mis habilidades de comunicación y gestión de clientes. Soy detallista y resolutivo, con capacidad para trabajar en equipo y manejar proyectos complejos. Busco seguir creciendo profesionalmente en el desarrollo Full Stack, asumiendo nuevos retos.
+Soy **Programador Full Stack** con experiencia en **Realidad Virtual (VR)**, **Realidad Aumentada (AR)** y desarrollo de software multiplataforma.  
+A lo largo de mi carrera he trabajado en proyectos que combinan innovación tecnológica con soluciones prácticas: desde experiencias inmersivas en VR hasta la personalización de bases de datos para explotación en **Power BI**.  
+
+Me caracterizo por mi **curiosidad innata**, mi **capacidad de adaptación** y un enfoque **analítico y resolutivo**. Disfruto tanto del trabajo en equipo como de la resolución de retos complejos, buscando siempre la manera más eficiente de hacer las cosas.  
+
+Actualmente, desempeño el rol de **Programador Full Stack en la Fundación Puerta de Hierro**, donde me centro en la extracción, transformación y análisis de datos con **SQL Server, MySQL y Sybase**, integrando soluciones en la nube y optimizando procesos.
 
 ---
 
 ## 💼 Experiencia Laboral
 
-### Asesor académico y comercial @ CEV - Madrid 
-*Julio 2019 - Actual*
+### Programador Full Stack @ Fundación Puerta de Hierro – Majadahonda  
+*Dic 2024 – Actualidad*  
+- Adaptación y personalización de bases de datos para su explotación en **Power BI**.  
+- Extracción y transformación de datos desde **SQL Server, MySQL y Sybase** para análisis avanzado.  
+- Optimización de procesos de gestión de datos.  
 
-- Asesoramiento personalizado y seguimiento de clientes interesados en cursos de nuevas tecnologías, como videojuegos y programación.
-- Elaboración de informes y análisis de datos para evaluar el rendimiento y la efectividad de las acciones comerciales.
-- Organización y participación en ferias educativas, presentaciones y eventos promocionales.
-- Profesor encargado de corregir múltiples proyectos de Unity empleando distintos medios como vídeo-correcciones y foros.
-- Tutor de los videojuegos creados por los alumnos para su proyecto final.
-- Encargado de la impresión y mantenimiento de impresoras 3D.
+### Profesor de Unity C# @ CEV – Madrid  
+*Jul 2019 – Dic 2024*  
+- Revisión, evaluación y corrección de proyectos de videojuegos desarrollados en **Unity y C#**.  
+- Elaboración de **videocorrecciones personalizadas** y asesoramiento técnico a estudiantes.  
+- Tutoría y acompañamiento en el desarrollo de proyectos finales.  
 
-### Programador VR y AR con Unity @ Presentys - Málaga 
-*Mayo 2018 - Mayo 2019*
+### Programador VR y AR con Unity @ Presentys – Málaga  
+*May 2018 – May 2019*  
+- Desarrollo de aplicaciones de **Realidad Virtual y Aumentada** para simulación industrial.  
+- Integración de **bases de datos** para almacenamiento de modelos 3D.  
+- Vinculación de maquetas físicas a entornos VR mediante giroscopios y guantes hápticos.  
 
-- Desarrollo de experiencias con VR para la seguridad laboral de varias empresas.
-- Desarrollo del frontend de un catálogo de material industrial, con ensablado de piezas y visualización en Realidad Aumentada.
-- I+D de un proyecto uniendo VR con giroscopios y maquetas, vinculando la maqueta real al modelo virtual. Empleo de guantes “Manus VR” para tocar el modelo virtual e interactual con él.
-- Desarrollo de guías para visitar y conocer diferentes tipos de maquinaria.
-
-### Programador VR con Unity @ Paramotion - Segovia 
-*Marzo 2017 - Marzo 2018*
-
-- Desarrollo de marionetas digitales con VR.
-- Desarrollo de juegos integrando VR y proyectores estereoscópicos (3D).
+### Programador VR con Unity @ Paramotion – Segovia  
+*Mar 2017 – Mar 2018*  
+- Creación de **marionetas digitales VR**.  
+- Desarrollo de juegos integrando **VR y proyectores estereoscópicos 3D**.  
 
 ---
 
 ## 🎓 Formación Académica
 
 - **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**  
-  *CEV - Madrid (Septiembre 2022 - Junio 2024)*
+  *CEV - Madrid (2022 - 2024)*  
 
 - **Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos**  
-  *CEV - Madrid (Septiembre 2015 - Junio 2017)*
+  *CEV - Madrid (2015 - 2017)*  
 
 - **Técnico en Sistemas Microinformáticos y Redes**  
-  *I.E.S María Moliner - Segovia (Septiembre 2012 - Junio 2014)*
+  *I.E.S María Moliner - Segovia (2012 - 2014)*  
 
 ---
 
 ## 🛠️ Habilidades
 
-- **Lenguajes y Frameworks**: Unity, C#, Java, HTML, CSS3, Bootstrap, Python, JavaScript, MySQL, JSON, Angular, TypeScript, Spring Boot.
-- **Plataformas**: Amazon Web Services (AWS).
-- **Herramientas y Software**: Paquete Adobe, Maya 3D, impresión 3D, aplicaciones ofimáticas.
-- **Otros**: Liderazgo, trabajo en equipo, alta capacidad de adaptación, curiosidad constante para el aprendizaje continuo.
+- **Lenguajes de Programación**: C#, Java, Python, Swift, JavaScript, HTML, CSS3, SQL, DAX  
+- **Frameworks y Librerías**: Angular, Spring Boot, Bootstrap  
+- **Bases de Datos**: MySQL, SQL Server, Oracle, Sybase, DBeaver  
+- **Desarrollo Mobile**: Android Studio (Java), Swift (iOS), Unity  
+- **Cloud y DevOps**: Amazon Web Services (AWS)  
+- **Herramientas y Entornos**: Visual Studio, IntelliJ IDEA, Git, Power BI, Excel  
+- **IA y Automatización**: Integración y manejo de la API de **ChatGPT**, consumo de APIs REST  
+- **Otros**: Trabajo en equipo, metodologías ágiles (Scrum/Kanban), curiosidad constante y aprendizaje continuo  
 
 ---
 
 ## 🌐 Conéctate conmigo
 
-- **LinkedIn**: [Rodrigo Marcos del Bosque Calvo](https://www.linkedin.com/in/rodrigo-marcos-del-bosque-calvo-b82565120/)
-- **Email**: rodrigo.m.delbosque@gmail.com
+- **LinkedIn**: [Rodrigo Marcos del Bosque Calvo](https://www.linkedin.com/in/rodrigo-marcos-del-bosque-calvo-b82565120/)  
+- **Email**: rodrigo.m.delbosque@gmail.com  
 
 ---
 
@@ -77,5 +85,3 @@ Programador **Full Stack** con experiencia en **Realidad Virtual** y **Aumentada
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RMdelbosque&layout=compact&theme=radical)
 
 ---
-
-
