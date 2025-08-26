@@ -1,16 +1,13 @@
-# ¡Hola, soy Rodrigo del Bosque Calvo! 👋
+# ¡Hola, soy Rodrigo Marcos del Bosque Calvo! 👋
 
 ![GitHub Profile Header](https://github.com/RMdelbosque/RMdelbosque/raw/main/Foto%20Github.jpg)
 
-## Sobre mí
+## 🎯 Resumen Profesional
+Soy **Programador Frontend** en proceso de especialización en **Angular**, con experiencia en desarrollo de aplicaciones multiplataforma, gestión de bases de datos y explotación de información con **Power BI**.  
 
-### 🎯 Resumen Profesional
-Soy **Programador Full Stack** con experiencia en **Realidad Virtual (VR)**, **Realidad Aumentada (AR)** y desarrollo de software multiplataforma.  
-A lo largo de mi carrera he trabajado en proyectos que combinan innovación tecnológica con soluciones prácticas: desde experiencias inmersivas en VR hasta la personalización de bases de datos para explotación en **Power BI**.  
+Actualmente trabajo en la **Fundación Puerta de Hierro**, donde participo en proyectos de integración y transformación de datos, aplicando tecnologías como **SQL Server, MySQL y Sybase**. Paralelamente, sigo formándome y enfocando mi carrera hacia el desarrollo **Frontend con Angular**.  
 
-Me caracterizo por mi **curiosidad innata**, mi **capacidad de adaptación** y un enfoque **analítico y resolutivo**. Disfruto tanto del trabajo en equipo como de la resolución de retos complejos, buscando siempre la manera más eficiente de hacer las cosas.  
-
-Actualmente, desempeño el rol de **Programador Full Stack en la Fundación Puerta de Hierro**, donde me centro en la extracción, transformación y análisis de datos con **SQL Server, MySQL y Sybase**, integrando soluciones en la nube y optimizando procesos.
+Cuento también con experiencia previa en **Realidad Virtual y Aumentada**, que me aportó un enfoque innovador en el desarrollo de soluciones interactivas, pero mi objetivo profesional está hoy en día en el **desarrollo web y frontend moderno**.  
 
 ---
 
@@ -18,26 +15,25 @@ Actualmente, desempeño el rol de **Programador Full Stack en la Fundación Puer
 
 ### Programador Full Stack @ Fundación Puerta de Hierro – Majadahonda  
 *Dic 2024 – Actualidad*  
-- Adaptación y personalización de bases de datos para su explotación en **Power BI**.  
-- Extracción y transformación de datos desde **SQL Server, MySQL y Sybase** para análisis avanzado.  
-- Optimización de procesos de gestión de datos.  
+- Extracción, transformación y personalización de datos desde **SQL Server, MySQL y Sybase**.  
+- Adaptación de bases de datos para su explotación en **Power BI**.  
+- Optimización de procesos de análisis y reporting.  
 
 ### Profesor de Unity C# @ CEV – Madrid  
 *Jul 2019 – Dic 2024*  
-- Revisión, evaluación y corrección de proyectos de videojuegos desarrollados en **Unity y C#**.  
-- Elaboración de **videocorrecciones personalizadas** y asesoramiento técnico a estudiantes.  
-- Tutoría y acompañamiento en el desarrollo de proyectos finales.  
+- Revisión y corrección de proyectos de videojuegos desarrollados en **Unity y C#**.  
+- Elaboración de **videocorrecciones personalizadas** y asesoramiento técnico.  
+- Tutor de proyectos finales de grado.  
 
 ### Programador VR y AR con Unity @ Presentys – Málaga  
 *May 2018 – May 2019*  
 - Desarrollo de aplicaciones de **Realidad Virtual y Aumentada** para simulación industrial.  
-- Integración de **bases de datos** para almacenamiento de modelos 3D.  
-- Vinculación de maquetas físicas a entornos VR mediante giroscopios y guantes hápticos.  
+- Integración de bases de datos para almacenamiento y consulta de modelos 3D.  
 
 ### Programador VR con Unity @ Paramotion – Segovia  
 *Mar 2017 – Mar 2018*  
-- Creación de **marionetas digitales VR**.  
-- Desarrollo de juegos integrando **VR y proyectores estereoscópicos 3D**.  
+- Creación de **marionetas digitales VR** y experiencias interactivas.  
+- Desarrollo de juegos con **VR y proyección estereoscópica 3D**.  
 
 ---
 
@@ -56,14 +52,14 @@ Actualmente, desempeño el rol de **Programador Full Stack en la Fundación Puer
 
 ## 🛠️ Habilidades
 
-- **Lenguajes de Programación**: C#, Java, Python, Swift, JavaScript, HTML, CSS3, SQL, DAX  
-- **Frameworks y Librerías**: Angular, Spring Boot, Bootstrap  
+- **Frontend**: Angular, TypeScript, HTML, CSS3, Bootstrap  
+- **Lenguajes de Programación**: Java, C#, Python, JavaScript, Swift, SQL, DAX  
+- **Frameworks y Backend**: Spring Boot, consumo de APIs REST  
 - **Bases de Datos**: MySQL, SQL Server, Oracle, Sybase, DBeaver  
+- **Data & Cloud**: Power BI, Amazon Web Services (AWS)  
 - **Desarrollo Mobile**: Android Studio (Java), Swift (iOS), Unity  
-- **Cloud y DevOps**: Amazon Web Services (AWS)  
-- **Herramientas y Entornos**: Visual Studio, IntelliJ IDEA, Git, Power BI, Excel  
-- **IA y Automatización**: Integración y manejo de la API de **ChatGPT**, consumo de APIs REST  
-- **Otros**: Trabajo en equipo, metodologías ágiles (Scrum/Kanban), curiosidad constante y aprendizaje continuo  
+- **Herramientas y Entornos**: Visual Studio, IntelliJ IDEA, Git  
+- **Otros**: metodologías ágiles (Scrum/Kanban), integración de la API de ChatGPT, trabajo en equipo  
 
 ---
 
@@ -82,6 +78,6 @@ Actualmente, desempeño el rol de **Programador Full Stack en la Fundación Puer
 
 ## 📊 Lenguajes más utilizados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RMdelbosque&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RMdelbosque&layout=donut&langs_count=8&theme=radical)
 
 ---
