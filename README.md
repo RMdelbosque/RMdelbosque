@@ -3,11 +3,13 @@
 ![GitHub Profile Header](https://github.com/RMdelbosque/RMdelbosque/raw/main/Foto%20Github.jpg)
 
 ## 🎯 Resumen Profesional
-Soy **Programador Frontend** en proceso de especialización en **Angular**, con experiencia en desarrollo de aplicaciones multiplataforma, gestión de bases de datos y explotación de información con **Power BI**.  
+Trabajo con datos: **Power BI, SQL Server, MySQL** y gestión de bases de datos, con experiencia en desarrollo de aplicaciones multiplataforma.
 
-Actualmente trabajo en la **Fundación Puerta de Hierro**, donde participo en proyectos de integración y transformación de datos, aplicando tecnologías como **SQL Server, MySQL y Sybase**. Paralelamente, sigo formándome y enfocando mi carrera hacia el desarrollo **Frontend con Angular**.  
+Actualmente en la **Fundación Puerta de Hierro**, donde participo en proyectos de integración y transformación de datos entre sistemas, unificando información de distintas fuentes en dashboards de Power BI.
 
-Cuento también con experiencia previa en **Realidad Virtual y Aumentada**, que me aportó un enfoque innovador en el desarrollo de soluciones interactivas, pero mi objetivo profesional está hoy en día en el **desarrollo web y frontend moderno**.  
+Tengo formación en sistemas y redes, y experiencia previa en desarrollo de software (C#, SQL) y gestión de datos con CRMs (Zoho, Dynamics 365). También cuento con experiencia puntual en **Realidad Virtual y Aumentada**, que me dio un enfoque distinto para resolver problemas de forma interactiva.
+
+Soy curioso por naturaleza y me adapto rápido a entornos y tecnologías nuevas — de ahí que mi perfil combine datos, integración de sistemas y algo de desarrollo web (HTML, CSS, Angular).
 
 ---
 
